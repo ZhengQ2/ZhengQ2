@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhengQ2
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C/C++ and Java
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: zheng.qiu@uwaterloo.ca
 
