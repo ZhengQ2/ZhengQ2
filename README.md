@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZhengQ2
-- 👀 I’m interested in Backend Development
+- 👋 Hi, I’m @ZhengQ2, you can call me Zheng or QZ
+- 👀 I’m interested in Photography and Programming
 - 🌱 I’m currently learning C/C++ and Java
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: zheng.qiu@uwaterloo.ca
