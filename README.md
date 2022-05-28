@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C/C++ and Java
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: zheng.qiu@uwaterloo.ca
+- 😊 Want to know more: https://zhengqiu.net/
 
 <!---
 ZhengQ2/ZhengQ2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
